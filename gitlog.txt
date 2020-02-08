@@ -1,0 +1,35 @@
+commit cafe33dcdf37c8ad7f1e4ea0b4dff7abc400c806
+Author: Hollup <dangil72@gmail.com>
+Date:   Sat Feb 8 23:27:44 2020 +0300
+
+    added the file with the specific name that before added to .gitignore and it's ignored
+
+commit 1896b2c6e44f04b44583f2eabe9f61349caa3a98
+Author: Hollup <dangil72@gmail.com>
+Date:   Sat Feb 8 23:23:35 2020 +0300
+
+    added .gitignore
+
+commit 0ee1ef4c22110690c323507b1840528459f8732e
+Author: Hollup <dangil72@gmail.com>
+Date:   Tue Feb 4 00:40:29 2020 +0300
+
+    re-added two files
+
+commit 012bd80dc8fa15212cd153ccf2b4cf74960121b4
+Author: Hollup <dangil72@gmail.com>
+Date:   Tue Feb 4 00:20:51 2020 +0300
+
+    added readme.txt
+
+commit b8ee24a5f0d193456e4dbef9012ea9ee002d7410
+Author: Hollup <dangil72@gmail.com>
+Date:   Tue Feb 4 00:20:17 2020 +0300
+
+    deleted readme.txt
+
+commit ea63734e3b215b28199bcf652d89838bc47a8a99
+Author: Hollup <dangil72@gmail.com>
+Date:   Tue Feb 4 00:17:02 2020 +0300
+
+    added readme.txt
