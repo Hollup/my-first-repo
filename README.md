@@ -1,14 +1,14 @@
-#Danil Shnyakin
+# Danil Shnyakin
 
-####Where I was born
+#### Where I was born
 
 I was born in the town of Cheboksary, which is in Republic of Chuvasia.
 
-####What I do
+#### What I do
 
 Waste my life
 
-####Contact
+### Contact
 
 Follow [my instagram account](https://www.instagram.com/yshsyf)
 
